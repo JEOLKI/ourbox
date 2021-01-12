@@ -36,7 +36,7 @@
 
 <br/>
 
-## :runner: Function
+## :rocket: Function
 ### 1. 회원기능
 1. 회원가입 및 탈퇴
 2. **구글캡챠API**
